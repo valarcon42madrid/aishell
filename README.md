@@ -1,6 +1,6 @@
 ## AISHELL
 
-**Es la versión local de https://github.com/valarcon42madrid/aishell2 **
+(Es la versión local de https://github.com/valarcon42madrid/aishell2 ; por ello reutilizo el directorio grokAIshell/ pero puedes crear uno diferente para mayor claridad)
 
 ---
 
